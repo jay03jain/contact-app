@@ -1,2 +1,2 @@
 # contact-app
-<img/>
+<img src="contact-app/src/images/user.png"/>
