@@ -1,0 +1,25 @@
+.btn{
+    height: 50px;
+    width: 200px;
+    font-size: large;
+    font-weight: 600;
+    color: aliceblue;
+    background-color: steelblue;
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+.center-div{
+    width: 100%!important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* Other styles for the parent container */
+    width: 300px;
+    height: 100px;
+
+}
+.card1{
+    margin-top:170px !important;
+}

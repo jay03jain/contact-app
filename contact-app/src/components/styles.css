@@ -1,0 +1,65 @@
+.name{
+    font-size: 25px;
+    position: absolute;
+    top: 0px;
+}
+.email{
+    font-size: 20px;
+    font-weight: 400!important;
+    margin: 15px 0 0 20px !important;
+    position: absolute;
+    left: 35%;
+    text-align: center;
+
+}
+.photo{
+    transform: scale(1.4);
+    cursor:pointer;
+    position: absolute;
+    top: 10px;
+}
+.photo.edit{
+    color: steelblue;
+    right: 50px;
+}
+.photo.trash{
+    color: red;
+    right: 10px;   
+    
+}
+img{
+    margin-top: 5px !important;
+}
+.header{
+    display: inline !important;
+    text-align: center;
+    margin-top: 10px !important;
+    
+}
+.words{
+    font-size: 45px;
+}
+.padd{
+    padding-top: 80px!important;
+    
+}
+.card{
+    position: relative;
+}
+.bttn{
+    position: absolute;
+    right: 0;
+    bottom: -7px;
+
+}
+.list-h2{
+    position: relative;
+}
+.head{
+    background-color: steelblue!important;
+}
+.head h2{
+    color: aliceblue;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
